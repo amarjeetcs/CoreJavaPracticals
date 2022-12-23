@@ -3,7 +3,8 @@ package com.basic.code;
 public class Variables {
 	int x=10;
 	//inside class and outside main method called instance
-	static String s="Neha";
+	static String s="Amarjeet Kumar Singh";
+	
 	//inside the class and outside the main method with the help of static keyword
 	
 	
